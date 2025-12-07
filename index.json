@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AnimeTosho ArabicSubs",
+    "id": "animetosho-arab",
+    "version": "0.0.5",
+    "type": "torrent",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["Arabic", "ALL"],
+    "icon": "https://animetosho.org/inc/favicon.ico",
+    "update": "https://raw.githubusercontent.com/madrararara/hayase-arab-ext/main/index.json",
+    "code": "https://raw.githubusercontent.com/madrararara/hayase-arab-ext/main/animetosho-arab.js"
+  }
+]
